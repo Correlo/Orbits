@@ -22,4 +22,4 @@ To run the code: run Orbits_sys.py
 
 The other codes allows to create the figures and perform some calculations.
 
-Code developed by Martín Manuel Gómez Míguez
+Code developed by Martín Manuel Gómez Míguez @Correlo alu0100990393@ull.edu.es
