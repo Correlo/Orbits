@@ -20,6 +20,6 @@ Params directory contains different configurations used in the project. All para
 
 To run the code: run Orbits_sys.py
 
-The other codes allows to create the figures and perform some calculations.
+Other codes allow to create the figures and perform some calculations.
 
 Code developed by Martín Manuel Gómez Míguez @Correlo alu0100990393@ull.edu.es
