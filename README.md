@@ -10,7 +10,7 @@ t_f:     Final time
 N:       Number of time steps
 ls:      Softening lenght 
 inter_p: Activate Body's interactions
-dsch:    Sélect dérivative scheme. Use Euler or RK4
+dsch:    Select derivative scheme. Use Euler or RK4
 KDt:     Activate KDtree
 k:       Number of neighbors
 nl:      Number of leaves
